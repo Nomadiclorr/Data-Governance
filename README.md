@@ -38,7 +38,8 @@ Information governance is entirely concerned with the meaning of the data and it
 8. Maintaining the program.
 
 **Common elements of Data Governance**
-![image](https://github.com/Nomadiclorr/Data-Governance/assets/138734847/c91a2c17-184e-4af2-be79-d0e5570b3317)
+![image](https://github.com/Nomadiclorr/Data-Governance/assets/138734847/e0cfe64c-6050-4e0d-a7bd-27f1599a7574)
+
 
 
 
