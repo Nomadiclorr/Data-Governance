@@ -27,6 +27,21 @@ Information governance is entirely concerned with the meaning of the data and it
 - Reduced data management costs
 - Established rules for handling data
 
+## Creating a Data Governance Program
+1. Defining the vision, goals, and benefits.
+2. Analyzing the current state of data governance and management.
+3. Developing a proposal based on the first two steps, including a draft plan.
+4. Achieving leadership approval.
+5. Designing and developing the program.
+6. Implementing the program.
+7. Monitoring and measuring performance.
+8. Maintaining the program.
+
+**Common elements of Data Governance**
+![image](https://github.com/Nomadiclorr/Data-Governance/assets/138734847/c91a2c17-184e-4af2-be79-d0e5570b3317)
+
+
+
 
 
 
