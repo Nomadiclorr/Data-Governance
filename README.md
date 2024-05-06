@@ -98,6 +98,73 @@ Data culture is how your organization values data and how it manages and uses it
 - The IT organization is capable and resourced to support the program.
 
 
+# Exploring a World Overflowing with Data
+## Defining Data
+Data refers to collections of digitally stored units, in other words, stuff that is kept on a computing device. These units represent something meaningful when processed for a human or a computer. Single units of data are traditionally referred to as *datum* and multiple units as data. 
+
+**Data Format Categories**
+- Structured: Data that has been formatted to a set structure; each data unit fits nicely into a table in a database. It’s ready for analysis. Examples include first name, last name, and phone number.
+- Unstructured: Data that are stored in a native format must be processed to be used. Further work is required to enable analysis. Examples include email content and social media posts.
+- Semi-structured: Data that contains additional information to enable the native format to be searched and analyzed.
+
+  ![Data type](https://github.com/Nomadiclorr/Data-Governance/assets/138734847/c0c10542-ad76-437b-b38e-0fbf44396c27)
+
+  ## From Data to Insight
+  Creating, collecting, and storing data is a waste of time and money if it’s being done without a clear purpose or intent to use it in the future.
+  Information is data in context.
+
+  **The Differences Between Data and Information**
+  ![Infovdata](https://github.com/Nomadiclorr/Data-Governance/assets/138734847/79d188fc-ad4e-4214-b97d-ddbe5d4b8fd3)
+
+  ## The Role of Data in the 21st Century
+  Since the early days of data processing in the 19th and 20th centuries right through to digital transformation in the 21st century, data has played many important roles. It’s helped us understand the world in completely new ways, improved our ability to make better-informed decisions, and supported our efforts to solve all manner of problems. In this way, it’s fair to say that data has always been important.
+
+  ## Data-Driven Decision-Making
+  The greatest values of data is its ability to help us all make better decisions.
+
+  ## Data Ownership
+  For something to be properly managed, someone needs to be responsible. We create accountability in job descriptions and projects.
+
+  ### Data ownership
+  Data ownership describes the rights a person, team, or organization has over one or more data sets. These rights may span from lightweight oversight and control to rigorous rules that are legally enforceable. For example, data associated with intellectual property — items such as copyrights and trade secrets — will likely have high degrees of protection, from accessibility rights to who can use the data and for what purpose.
+
+  ## Data Architecture
+  When designing the technical needs of an organization to support its business strategy, this practice is known as enterprise architecture (EA). Using standards and established principles, organizations can analyze, design, plan, and implement the right technologies, policies, and projects to support business goals.
+
+  A subset of EA is **data architecture**. In the same manner, which you can consider the holistic nature of EA in support of the organization’s strategy, data architecture is the manner in which data design and management decisions are being made to align with EA and in turn, with the business. Simply stated, data architecture is the agreed blueprint for how data supports an organization’s functions and technologies.
+
+**At a minimum, data architecture considers and typically supports the following:**
+- Ensuring data is available to those who need it and are approved to use it.
+- Reducing the complexity of accessing and utilizing data
+- Creating and enforcing data protections to support organizational policies and obligations.
+- Adopting and agreeing to data standards
+- Optimizing the flow and efficient use of data to eliminate bottlenecks and duplication
+
+ ## The Lifecycle of Data
+
+ ![lc](https://github.com/Nomadiclorr/Data-Governance/assets/138734847/0d43e093-6064-4710-a44f-ff8b3074d41f)
+
+**1. Creation:**  This is the stage at which data comes into being. It may be manual or automated and get created internally or externally. Data is created all the time by a vast number of activities that include system inputs and outputs.
+**2. Storage:**  Once data is created and assuming you want it available for later use, it must be stored. It most likely will be contained and managed in a database. The database needs a home, too as a local hard drive, server, or cloud service.
+**3. Usage:**  Hopefully you’re capturing and storing data because you want to use it. Maybe not immediately, but at some point, perhaps for analysis. Data may need to be processed to be useful. That could include cleansing it of errors, transforming it to another format, and securing access rights.
+**4. Archival:**  In this stage, you identify data that is not currently being used and move it to a long-term storage system out of your production environment. If it's needed at some point in the future, it can be retrieved and utilized.
+**5. Destruction:**  Despite a desire by some to keep everything forever, there is a logical point where destruction makes sense or is required by regulation or policy. Data destruction involves making data inaccessible and unreadable. It can include the physical destruction of a device such as a hard drive.
+
+## Defining Big Data
+Big data is structured and unstructured data that is so massive and complex in scale, that it’s difficult and often impossible to process via traditional data management techniques.
+
+**One way to define and characterize big data is through these five Vs:**
+
+1. Volume: The sheer scale of data being produced is unprecedented and requires new tools, skills, and processes.
+2. Variety: There are already a lot of legacy file formats, such as CSV and MP3, and with new innovations, new formats are emerging all the time. This requires different methods of handling, from analysis to security.
+3. Velocity: With so many collection points, digital interfaces, and ubiquitous connectivity, data is being created and moved at increasing speed. Consider that in 2021, Instagram users created, uploaded, and share 65,000 pictures a minute.
+4. Variability:  The fact that the creation and flow of data are unpredictable.
+5. Veracity:  The quality, including accuracy and truthfulness, of large volume of disparate sets of data, can differ considerably, causing challenges to data management.
+
+
+
+
+
 
 
 
