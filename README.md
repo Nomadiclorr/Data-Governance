@@ -161,6 +161,49 @@ Big data is structured and unstructured data that is so massive and complex in s
 4. Variability:  The fact that the creation and flow of data are unpredictable.
 5. Veracity:  The quality, including accuracy and truthfulness, of large volume of disparate sets of data, can differ considerably, causing challenges to data management.
 
+# Driving Value Through Data
+## Identifying the Roles of Data
+
+### Operations
+Operations run on and are powered by a variety of data and information sources. They also create a lot of both, too.
+Business operations concern themselves with a diverse set of activities to run the day-to-day needs and drive the mission of an organization. Each business has different needs, and operational functions reflect these specific requirements. Some core functions show up in almost every organization. Consider payroll, order management, and marketing. At the same time, some operational support won’t be required. Not every organization needs its own IT organization, or if it’s a service business, it may not have a warehouse.
+
+### Strategy
+Every organization has a strategy, whether it’s articulated overtly or not. At the organizational level, this is about creating a plan that supports objectives and goals. It’s essentially about understanding the challenges to delivering on the organization’s purpose and then agreeing on the proposed solutions to those challenges. Strategy can also be adopted at the department and division levels, but the intent is the same: understand the journey ahead and make a plan.
+
+### Decision-Making
+It’s generally accepted in business that the highest form of value derived from data is the ability to make better-informed decisions. The volume and quality of data available today have no precedent in history.
+Within organizations, access to abundant data and information has resulted in quicker, timeous, and better-quality business decisions. For example, executives can understand their strengths, weaknesses, opportunities, and threats closer to real time. For most, gone are the days of waiting until the end of the fiscal quarter to get the good or bad news. Even if the information is tentative in the interim, it’s vastly better than being in the dark until it may be too late.
+
+### Measuring
+Organizations are in a continuous state of measurement, whether it’s overt or tacit. Every observed unit of data contributes to building a picture of the business.
+Data measurements can be quantitative or qualitative. Quantitative data is most often described in numerical terms, whereas qualitative data is descriptive and expressed in terms of language.
+The type of information desired directly correlates to the measurement approach. This is going to inform your choices of at least what, when, where, and how data is captured. A general rule is only to capture and measure what matters. Some may argue that capturing data now to measure later has value even if there isn’t a good case yet. I can buy that but be careful with your limited resources and the potential costs.
+
+### Monitoring
+This is an ongoing process of collecting and evaluating the performance of, say, a project, process, system, or another item of interest. Often the results collected are compared against some existing values or desired targets. For example, a machine on a factory floor may be expected to produce 100 widgets per hour. You engage in some manner of monitoring in order to inform whether, in fact, this expectation is being met. Across a wide range of activities, monitoring also helps to ensure the continuity, stability, and reliability of that being supervised.
+Involved in monitoring is the data produced by the thing being evaluated. It’s also the data that is produced as a product of monitoring. For example, the deviation from the expected result.
+By continuously monitoring the quality of the data in your organization, opportunities and issues may be revealed in a timely manner. Then, if deemed appropriate, actions can be prioritized.
+
+### Insight Management
+Data forms the building blocks of many business functions. In support of decision-making — arguably its most important value — data is the source for almost all insight. As a basic definition, business insight is sometimes referred to as information that can make a difference.
+It’s not enough to simply collect lots of data and expect that insight will suddenly emerge. There must be an attendant management process. Thus, insight management means ensuring that data and information are capable of delivering insight.
+
+### Reporting
+Perhaps the most obvious manifestation of data and information management in any organization is the use of reports. Creating, delivering, receiving, and acting on reports are fundamental functions of any organization. Some say they are the backbone of every business. That sounds overly glamorous, but it does speak to the importance of reporting and reports.
+
+The content of a report, which can be summarized or detailed, contains data and information in a structured manner. For example, an expenditure report would provide a basic overview of the purpose of the report and then support it with relevant information. That could include a list of all expenditures for a department over a certain period or it could just be a total amount. It will depend on the audience and purpose. The inclusion of visuals is popular.
+
+### Other Roles for Data
+While we’ve gone over a number of the most visible uses of data in organizations today, it was not the intent to list every conceivable way that data is used. That said, here’s a short list of some other important areas that we should not omit.
+
+- Artificial intelligence (AI):  Data is considered the fuel of AI. It requires a high volume of good data. With huge quantities of quality data, the outcomes of AI improve. It’s from the data that AI learns patterns, identifies relationships, and determines probabilities. In addition, AI is being used to improve the quality and use of data in organizations.
+- Problem-solving:  Acknowledging the close association with decision-making, it’s worth calling out problem-solving as a distinctive use of data. Data plays a role in how a problem is defined, determining what solutions are available, evaluating which solution to use, and measuring the success or failure of the solution that is chosen and applied.
+- Data reuse:  While we collect and use data for a specific primary purpose, data is often reused for entirely different reasons. Data that has been collected, used, and stored can be retrieved and used by a different team at another time - assuming they have permission, including access and legal rights (notable controls within data governance). For example, the sales team in an organization will collect your name and address in order to fulfill an order. Later, that same data set may be used by the marketing team to create awareness about other products and services. These are two different teams with different goals using the same data. Data reuse can be considered a positive given that it reduces data collection duplication and increases the value of data to an organization, but it must be managed with care so that it doesn’t break any data use rules. (Note: High-value shared data sets are called master data, and in data governance, they are subject to master data management.)
+
+
+
+
 
 
 
