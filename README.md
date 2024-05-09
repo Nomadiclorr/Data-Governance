@@ -251,6 +251,25 @@ Governing data means that some level of control exists to support a related poli
 **- Policies:**  A data policy contains a set of adopted rules by an organization that apply to the handling of data in specific conditions and for particular desired outcomes. These policies apply in areas such as quality, privacy, retention, and security. The number of policies is typically a reflection of the size of the organization, the industry, and the degree to which data is considered a high-priority asset. As you can imagine, the healthcare and financial industries, for example, which manage high volumes of sensitive data, have a significant number of data policies in support of their data governance programs.
 **- Metrics:**  It’s largely true, what gets measured gets managed. In developing policies in support of data governance, you have to consider how each is measured. For example, if a policy states that there shouldn’t be more than five risk events per month such as a regulatory requirement being out of compliance, then, assuming the metric is high to begin with, it should decrease over time. If it doesn’t decrease or it does and then fluctuates widely, there’s an issue with the relevant data management procedures. Metrics must be in support of both technical and business needs. 
 
+# Transforming Through Data
+## Examining the Broader Value of Data
+In small organizations or when a business is first created, only a few systems are used, and team members know the type and location of most of the data that is available. You can imagine, for example, basic repositories for customer data, invoices, and marketing materials.
+The ability of team members to access data that they need for their work, without having to rely on specialists, is called **data democratization.**
+
+Unfortunately, over time, the situation often deteriorates. Whether because of culture, strategy (or lack of strategy), systems design, budgets, mergers, or any number of other dynamics, data sets get siloed. A **data silo** is a data repository controlled by an entity in an organization but not frequently shared or known by other parts of the business. Data silos hinder business efficiencies because they reduce collaboration and increase data inconsistencies. In addition, they are a source of risk, including security and regulatory issues.
+
+**Knowing what data is available is essential for the following reasons:**
+
+- Better informed decision-making.
+- Ensuring compliance and regulatory requirements.
+- Lower costs by avoiding duplicate system and data efforts.
+- Improved data analytics and reporting.
+- Higher performing systems.
+- More efficient operations.
+- Reducing data inconsistencies across the enterprise.
+
+  
+
 
 
 
